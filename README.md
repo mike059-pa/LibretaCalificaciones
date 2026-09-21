@@ -42,11 +42,13 @@ El método `DeterminarPromedioClase()` solicita al usuario **10 calificaciones**
 
 #### Ejecución del programa
 
-<!-- Colocar aquí la captura de pantalla de la ejecución de LibroCalificaciones -->
+<img width="1401" height="647" alt="image" src="https://github.com/user-attachments/assets/a24c5127-6d46-4131-870a-52680aed0c0c" />
+
 
 #### Resultado del promedio
 
-<!-- Colocar aquí la captura mostrando el total y promedio de las 10 calificaciones -->
+<img width="602" height="392" alt="image" src="https://github.com/user-attachments/assets/0923d648-76c3-400d-8244-19ef4b5ebf78" />
+
 
 ---
 
@@ -62,15 +64,18 @@ Al finalizar, se verifica mediante una estructura `if/else` si se ingresaron cal
 
 #### Ingreso de calificaciones
 
-<!-- Colocar aquí la captura de pantalla del ingreso de calificaciones -->
+<img width="542" height="190" alt="image" src="https://github.com/user-attachments/assets/bbc15454-dc89-4335-b2e4-617b728488c2" />
+
 
 #### Resultado del promedio
 
-<!-- Colocar aquí la captura mostrando el total y promedio -->
+<img width="646" height="70" alt="image" src="https://github.com/user-attachments/assets/6909f20c-265a-4913-9ca4-59ec6a84b18c" />
+
 
 #### Caso sin calificaciones
 
-<!-- Colocar aquí una captura mostrando el mensaje cuando no se introducen calificaciones -->
+<img width="522" height="65" alt="image" src="https://github.com/user-attachments/assets/592ae2b9-c7b5-4735-8c22-39102fb20e92" />
+
 
 ---
 
