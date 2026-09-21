@@ -1,6 +1,6 @@
 # Actividad #3 - Libro de Calificaciones
 
-**Fecha:** 21/09/2026
+**Fecha:** 07/09/2026
 
 ## Contenido del Repositorio
 
@@ -99,7 +99,8 @@ Posteriormente, se invocan los métodos correspondientes para mostrar el mensaje
 
 #### Ejecución completa
 
-<!-- Colocar aquí la captura de la ejecución completa del programa -->
+<img width="902" height="507" alt="image" src="https://github.com/user-attachments/assets/cca1087f-7940-4cf6-a7c6-87362a56fcdb" />
+
 
 ---
 
@@ -210,7 +211,7 @@ Para el segundo libro de calificaciones:
 **Materia:** HPA III
 **Institución:** Universidad Tecnológica de Panamá (UTP)
 **Actividad:** Actividad #3 - Libro de Calificaciones
-**Fecha de Realización:** 21/09/2026
+**Fecha de Realización:** 07/09/2026
 
 ---
 
